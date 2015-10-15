@@ -1,10 +1,10 @@
 LDAclustering README, Eric Titus, October 2, 2015
 
-To use LDA via Gensim/python to cluster the text data contained in the Data1/Data2/Data3 csv files, run MainProgram.py, followed by AnalysisProgram.py
+To use LDA via Gensim/python to cluster the text data contained in the Data1 csv file, run MainProgram.py, followed by AnalysisProgram.py
 
 Currently, the code in RunLDAgensim groups the data into 35 topics, as determined by the code in OptimizeTopicNumber.py
 
-This code relys on the following external packages:
+This code relies on the following external packages:
 
 numpy
 scipy
